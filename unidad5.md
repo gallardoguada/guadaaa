@@ -1,8 +1,4 @@
-
-# 🧠 Evaluación de Conceptos de C y Arreglos
-
-Este documento contiene un resumen con las respuestas correctas a un conjunto de preguntas teóricas sobre arreglos, estructuras, cadenas y funciones en lenguaje C.
-
+resumen de teoria de unidad 3 a la 5 
 ---
 
 ## 1. Búsqueda en Arreglos
